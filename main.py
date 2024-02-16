@@ -5,4 +5,5 @@ def mnozh(a,b):
 def dil(a,b):
     return a/b
 print(suma(2,3))
-print(suma(5,9))
+print(mnozh(5,9))
+print(dil(5,9))
